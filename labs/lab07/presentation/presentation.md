@@ -1,10 +1,10 @@
 ---
 ## Front matter
 lang: ru-RU
-title: Отчёт по лабораторной работе №9
-author: Аветисян Давид Артурович
+title: Отчёт по лабораторной работе №8
+author: Дупленских Василий Викторович
 institute: РУДН, Москва, Россия
-date: 19 мая 2021
+date: 13 мая 2022
 
 ## Formatting
 toc: false
