@@ -1,11 +1,11 @@
 ---
 ## Front matter
 lang: ru-RU
-title: laboratory8
-author: |
-	Vasily Duplenskih\inst{1}
-institute: |
-	\inst{1}RUDN University, Moscow, Russian Federation
+title: Отчёт по лабораторной работе №9
+author: Аветисян Давид Артурович
+institute: РУДН, Москва, Россия
+date: 19 мая 2021
+
 ## Formatting
 toc: false
 slide_level: 2
