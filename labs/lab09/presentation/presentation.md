@@ -1,12 +1,10 @@
 ---
 ## Front matter
 lang: ru-RU
-title: Лабораторная работа №9. Текстовой редактор Emacs
-author: |
-	Vasily V. Duplenskih\inst{1}
-institute: |
-	\inst{1}RUDN University, Moscow, Russian Federation
-date: NEC--2019, 30 September -- 4 October, 2019 Budva, Montenegro
+title: Отчёт по лабораторной работе №9
+author: Дупленских Василий Викторович
+institute: РУДН, Москва, Россия
+date: 20 мая 2022
 
 ## Formatting
 toc: false
@@ -20,7 +18,6 @@ header-includes:
 aspectratio: 43
 section-titles: true
 ---
-
 # Цель работы:
 
 Познакомиться с операционной системой Linux. Получить практические навыки работы с редактором Emacs.
